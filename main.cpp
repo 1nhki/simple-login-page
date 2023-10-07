@@ -30,18 +30,6 @@ int main(){
 
     cout << "Password is valid !!\n";
     system ("pause");
-        
     
-
-
-    
-    
-
-
-
-
-
-
-
     return 0;
 }
